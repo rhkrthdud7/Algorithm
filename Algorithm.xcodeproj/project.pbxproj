@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9C4227A724BEEA5E00B95BEE /* 쇠막대기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C4227A624BEEA5E00B95BEE /* 쇠막대기.swift */; };
+		9C4227A924BF018700B95BEE /* 프린터.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C4227A824BF018700B95BEE /* 프린터.swift */; };
 		9C85B87224BB036100EC2BDD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C85B87124BB036100EC2BDD /* main.swift */; };
 		9C9CB8D724BB0B2C00E50396 /* Runnable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C9CB8D624BB0B2C00E50396 /* Runnable.swift */; };
 		9C9CB8EE24BB144B00E50396 /* 키패드_누르기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C9CB8EB24BB144B00E50396 /* 키패드_누르기.swift */; };
@@ -34,6 +35,7 @@
 
 /* Begin PBXFileReference section */
 		9C4227A624BEEA5E00B95BEE /* 쇠막대기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "쇠막대기.swift"; sourceTree = "<group>"; };
+		9C4227A824BF018700B95BEE /* 프린터.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "프린터.swift"; sourceTree = "<group>"; };
 		9C85B86E24BB036100EC2BDD /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C85B87124BB036100EC2BDD /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9C9CB8D624BB0B2C00E50396 /* Runnable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Runnable.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				9C9CB8FC24BC3F8A00E50396 /* 수식_최대화.swift */,
 				9C9CB8FF24BD81DA00E50396 /* 뉴스_클러스터링.swift */,
 				9C4227A624BEEA5E00B95BEE /* 쇠막대기.swift */,
+				9C4227A824BF018700B95BEE /* 프린터.swift */,
 			);
 			path = Level2;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 				9C9CB90024BD81DA00E50396 /* 뉴스_클러스터링.swift in Sources */,
 				9C9CB8FD24BC3F8A00E50396 /* 수식_최대화.swift in Sources */,
 				9C4227A724BEEA5E00B95BEE /* 쇠막대기.swift in Sources */,
+				9C4227A924BF018700B95BEE /* 프린터.swift in Sources */,
 				9C9CB8FA24BBFC7B00E50396 /* 튜플.swift in Sources */,
 				9C9CB8D724BB0B2C00E50396 /* Runnable.swift in Sources */,
 				9C85B87224BB036100EC2BDD /* main.swift in Sources */,
