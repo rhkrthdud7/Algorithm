@@ -22,6 +22,7 @@
 		9C9CB8FA24BBFC7B00E50396 /* 튜플.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C9CB8F924BBFC7B00E50396 /* 튜플.swift */; };
 		9C9CB8FD24BC3F8A00E50396 /* 수식_최대화.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C9CB8FC24BC3F8A00E50396 /* 수식_최대화.swift */; };
 		9C9CB90024BD81DA00E50396 /* 뉴스_클러스터링.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C9CB8FF24BD81DA00E50396 /* 뉴스_클러스터링.swift */; };
+		9CE5DBA324C4320E000039C0 /* 탑.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CE5DBA224C4320E000039C0 /* 탑.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -53,6 +54,7 @@
 		9C9CB8F924BBFC7B00E50396 /* 튜플.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "튜플.swift"; path = "../Level1/튜플.swift"; sourceTree = "<group>"; };
 		9C9CB8FC24BC3F8A00E50396 /* 수식_최대화.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "수식_최대화.swift"; sourceTree = "<group>"; };
 		9C9CB8FF24BD81DA00E50396 /* 뉴스_클러스터링.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "뉴스_클러스터링.swift"; sourceTree = "<group>"; };
+		9CE5DBA224C4320E000039C0 /* 탑.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "탑.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				9C60776724C183FD00E5CBEE /* 멀쩡한_사각형.swift */,
 				9C60776924C18A7100E5CBEE /* 기능개발.swift */,
 				9C67D7B424C1C08300C24AE1 /* 다리를_지나는_트럭.swift */,
+				9CE5DBA224C4320E000039C0 /* 탑.swift */,
 			);
 			path = Level2;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 				9C9CB8D724BB0B2C00E50396 /* Runnable.swift in Sources */,
 				9C85B87224BB036100EC2BDD /* main.swift in Sources */,
 				9C9CB8F224BB146400E50396 /* 크레인_인형뽑기_게임.swift in Sources */,
+				9CE5DBA324C4320E000039C0 /* 탑.swift in Sources */,
 				9C9CB8F424BB148300E50396 /* 실패율.swift in Sources */,
 				9C67D7B524C1C08300C24AE1 /* 다리를_지나는_트럭.swift in Sources */,
 			);
